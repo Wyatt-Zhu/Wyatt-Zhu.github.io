@@ -31,7 +31,7 @@ Computational Physics and Software Application Course, Teachar Assistant
 
 ## Work Experience
 ### Huawei, Beijing
-Jul 2022 - Dec 2021 \
+Jul 2022 - Dec 2022 \
 Software Development Engineer, Intern
 - Engaged in designing the walkthrough platform which excutes algorithms and visualizes results via VUE+SpringBoot+MySQL
 
