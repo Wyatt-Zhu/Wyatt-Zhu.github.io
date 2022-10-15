@@ -23,7 +23,7 @@ control of precise structure.
 
 Aug 2021 - Sept 2021 \
 Contemporary Undergraduate Mathematical Contest in Modeling of China, Programmer
-- Aimed at adjusting the reflecting surface of FAST(Five-hundred-meter Aperture Spherical radio Telescope) so that it can receive more signals from universe.
+- Aiming at adjusting the reflecting surface of FAST(Five-hundred-meter Aperture Spherical radio Telescope) so that it can receive more signals from universe.
 - Worked as a programmer via MATLAB to model the surface of the FAST by the coordinate information of more than two thousand nodes and designed the policy of adjusting each node we need and the algorithm to test our work, which shows by using our policy the FAST can receive 35% more signals.
 
 Nov 2021 - Dec 2021 \
