@@ -37,7 +37,7 @@ Mar 2022 - Jul 2022 \
 ## Work Experience
 ### Huawei Technologies Co., Ltd., Beijing
 Jul 2022 - Current \
-Software Development Engineer, Intern
+**Software Development Engineer, Intern**
 - Engaged in designing the walkthrough platform which excutes algorithms and visualizes results via VUE+SpringBoot+MySQL
 
 # Awards
