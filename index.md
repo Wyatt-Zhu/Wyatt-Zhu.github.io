@@ -4,21 +4,22 @@ Undergraduate student (graduating 2023),
 
 [Nankai University](https://en.nankai.edu.cn/)  
 
-Mail: WyattZhu@163.com (for work), or 1910372@mail.nankai.edu.cn
+Mail: wyattzhuhs@gmail.com, or 1910372@mail.nankai.edu.cn
 
 # Education
 ## Nankai University
 B.S., Optoelectronic Information Science, College of Physics,  
 Sep 2019 - Jul 2023, Tianjin, China.  
 Overall GPA: 86.99/100 or 3.60/4.00
+Love Physics and Coding, searching for research opportunity in areas where they can be combined.
 
 # Experience
 ## Study Experience
 ### Nankai University, Tianjin
 Mar 2021 - Mar 2022 \
 Student Innovation Training Program, Leader
-- Simulated the optical path of whole 3D-Bioprin ting system and imaging process of DMD chips in ZEMAX(an optical design software), which can guide the improvement in 
-structure process.
+- Simulated the optical path of the 3D-Bioprinting system and imaging process of DMD chips in ZEMAX(an optical design software), which can guide the improvement in 
+control of precise structure.
 
 Aug 2021 - Sept 2021 \
 Contemporary Undergraduate Mathematical Contest in Modeling of China, Programmer
