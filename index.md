@@ -11,7 +11,7 @@ Mail: wyattzhuhs@gmail.com, or 1910372@mail.nankai.edu.cn
 B.S., Optoelectronic Information Science, College of Physics,  
 Sep 2019 - Jul 2023, Tianjin, China.  
 Overall GPA: 86.99/100 or 3.60/4.00 \
-Love Physics and Coding, searching for research opportunity in areas where they can be combined.
+Have a great passion for Physics and Coding, searching for research opportunity in areas where they can be combined(simulation plus experiment).
 
 # Experience
 ## Study Experience
@@ -24,7 +24,7 @@ control of precise structure.
 Aug 2021 - Sept 2021 \
 Contemporary Undergraduate Mathematical Contest in Modeling of China, Programmer
 - Aiming at adjusting the reflecting surface of FAST(Five-hundred-meter Aperture Spherical radio Telescope) so that it can receive more signals from universe.
-- Worked as a programmer via MATLAB to model the surface of the FAST by the coordinate information of more than two thousand nodes and designed the policy of adjusting each node we need and the algorithm to test our work, which shows by using our policy the FAST can receive 35% more signals.
+- Worked as a programmer via MATLAB to model the surface of the FAST by the coordinate information of more than two thousand nodes and designed the policy of adjusting each node we need and the algorithm to evaluate our work, which shows by using our policy the FAST can receive 35% more signals.
 
 Nov 2021 - Dec 2021 \
 Digital Circuit Final Project - 8 People Voting Circuit
@@ -32,7 +32,7 @@ Digital Circuit Final Project - 8 People Voting Circuit
 
 Mar 2022 - Jul 2022 \
 Computational Physics and Software Application Course, Teachar Assistant
-- Gived the lectures of introduction to numerical and symbolic computation and visualizing of MATLAB and guided students to implement the algorithms teached in theory course via MATLAB.
+- Gived lectures of numerical and symbolic computation and visualizing function of MATLAB and guided students to implement the algorithms introduced in the theory course via MATLAB.
 
 ## Work Experience
 ### Huawei, Beijing
@@ -42,7 +42,7 @@ Software Development Engineer, Intern
 
 # Awards
 - National 1st Prize in Contemporary Undergraduate Mathematical Contest in Modeling, Nov 2021 (Top 1%)
-- 1st Prize in Student Innovation Training Program of Tianjin, May 2022 (Top 5%)
+- 1st Prize in Student Innovation Training Program, May 2022 (Top 5%)
 
 # Skills
 - Language: **English**: CET6: 618, **Chinese(Mandarin)**: Native
@@ -50,4 +50,5 @@ Software Development Engineer, Intern
 - Tools: **ZEMAX**, **SolidWorks**, **Proteus**, **Orign**, **LaTeX**, **Markdown**
 
 # Hobby
-Music(Mostly Canton-pop), Movie(Writing some simple reivews), badminton, travelling
+Music(Mostly Canton-pop), Movie(Writing some simple reivews), Badminton, Travelling \
+Person Blog: [42x24](https://42x24.fun)(the same name as the wechat public account)
