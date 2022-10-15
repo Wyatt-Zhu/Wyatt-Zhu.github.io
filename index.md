@@ -34,7 +34,7 @@ Mar 2022 - Jul 2022 \
 **Fundamental of Software Science and Computational Physics, Teachar Assistant**
 - Gived lectures of numerical and symbolic computation and visualizing function of MATLAB and guided students to implement the algorithms introduced in the theory course via MATLAB.
 
-## Work Experience
+## Intern Experience
 ### Huawei Technologies Co., Ltd., Beijing
 Jul 2022 - Current \
 **Software Development Engineer, Intern**
@@ -50,5 +50,5 @@ Jul 2022 - Current \
 - Tools: **ZEMAX**, **SolidWorks**, **Proteus**, **Orign**, **LaTeX**, **Markdown**
 
 # Hobby
-Music(Mostly Canton-pop), Movie(Writing some simple reivews), Badminton, Travelling \
-Person Blog: [42x24](https://42x24.fun)(the same name as the wechat public account)
+Music (Mostly Canton-pop), Movie (Writing some simple reivews), Badminton, Travelling \
+Person Blog: [42x24](https://42x24.fun) (the same name as the wechat public account)
