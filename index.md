@@ -17,7 +17,7 @@ Overall GPA: 86.99/100 or 3.60/4.00
 ### Nankai University, Tianjin
 Mar 2021 - Mar 2022 \
 Student Innovation Training Program, Leader
-- Simulated the optical path of whole 3D-Bioprinting system and imaging process of DMD chips in ZEMAX(an optical design software), which can guide the improvement in 
+- Simulated the optical path of whole 3D-Bioprin ting system and imaging process of DMD chips in ZEMAX(an optical design software), which can guide the improvement in 
 structure process.
 
 Aug 2021 - Sept 2021 \
@@ -25,25 +25,28 @@ Contemporary Undergraduate Mathematical Contest in Modeling of China, Programmer
 - Aimed at adjusting the reflecting surface of FAST(Five-hundred-meter Aperture Spherical radio Telescope) so that it can receive more signals from universe.
 - Worked as a programmer via MATLAB to model the surface of the FAST by the coordinate information of more than two thousand nodes and designed the policy of adjusting each node we need and the algorithm to test our work, which shows by using our policy the FAST can receive 35% more signals.
 
+Nov 2021 - Dec 2021 \
+Digital Circuit Final Project - 8 Person Voting Circuit
+- Designed a voting circut using CD4013 as T' trigger, 74HC165 as register, 74HC161 as counter and NE555 as multivibrator producing clock signal. I also welded a circut board to implement the design and it worked perfectly.
+
 Mar 2022 - Jul 2022 \
 Computational Physics and Software Application Course, Teachar Assistant
 - Gived the lectures of introduction to numerical and symbolic computation and visualizing of MATLAB and guided students to implement the algorithms teached in theory course via MATLAB.
 
 ## Work Experience
 ### Huawei, Beijing
-Jul 2022 - Dec 2022 \
+Jul 2022 - Current \
 Software Development Engineer, Intern
 - Engaged in designing the walkthrough platform which excutes algorithms and visualizes results via VUE+SpringBoot+MySQL
 
 # Awards
-- National 1st Prize in Contemporary Undergraduate Mathematical Contest in Modeling, Nov 2021
-- 1st Prize in Student Innovation Training Program of Tianjin, May 2022
+- National 1st Prize in Contemporary Undergraduate Mathematical Contest in Modeling, Nov 2021 (Top 1%)
+- 1st Prize in Student Innovation Training Program of Tianjin, May 2022 (Top 5%)
 
 # Skills
 - Language: **English**: CET6: 618, **Chinese(Mandarin)**: Native
-- Program: **Java**, **C++**, **Python**, **MATLAB**
-- Development: **VUE**, **SpringBoot**, **MySQL**
-- Document: **OFFICE**，**LaTeX**, **Markdown**
+- Program: **MATLAB**, **C++**, **Python**, **Java**
+- Tools: **ZEMAX**, **SolidWorks**, **Proteus**, **Orign**, **LaTeX**, **Markdown**, **OFFICE**
 
 # Hobby
 Music(Mostly Canton-pop), Movie(Writing some simple reivews), badminton, travelling
