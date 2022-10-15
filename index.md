@@ -27,7 +27,7 @@ Contemporary Undergraduate Mathematical Contest in Modeling of China, Programmer
 - Worked as a programmer via MATLAB to model the surface of the FAST by the coordinate information of more than two thousand nodes and designed the policy of adjusting each node we need and the algorithm to test our work, which shows by using our policy the FAST can receive 35% more signals.
 
 Nov 2021 - Dec 2021 \
-Digital Circuit Final Project - 8 Person Voting Circuit
+Digital Circuit Final Project - 8 People Voting Circuit
 - Designed a voting circut using CD4013 as T' trigger, 74HC165 as register, 74HC161 as counter and NE555 as multivibrator producing clock signal. I also welded a circut board to implement the design and it worked perfectly.
 
 Mar 2022 - Jul 2022 \
