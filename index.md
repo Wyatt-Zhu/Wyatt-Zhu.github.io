@@ -35,7 +35,7 @@ Computational Physics and Software Application Course, Teachar Assistant
 - Gived lectures of numerical and symbolic computation and visualizing function of MATLAB and guided students to implement the algorithms introduced in the theory course via MATLAB.
 
 ## Work Experience
-### Huawei, Beijing
+### Huawei Technologies Co., Ltd., Beijing
 Jul 2022 - Current \
 Software Development Engineer, Intern
 - Engaged in designing the walkthrough platform which excutes algorithms and visualizes results via VUE+SpringBoot+MySQL
