@@ -51,4 +51,4 @@ Jul 2022 - Current \
 
 # Hobby
 Music (Mostly Canton-pop), Movie (Writing some simple reivews), Badminton, Travelling \
-Person Blog: [42x24](https://42x24.fun) (the same name as the wechat public account)
+Personal Blog: [42x24](https://42x24.fun) (the same name as the wechat public account)
