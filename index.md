@@ -46,7 +46,7 @@ Software Development Engineer, Intern
 # Skills
 - Language: **English**: CET6: 618, **Chinese(Mandarin)**: Native
 - Program: **MATLAB**, **C++**, **Python**, **Java**
-- Tools: **ZEMAX**, **SolidWorks**, **Proteus**, **Orign**, **LaTeX**, **Markdown**, **OFFICE**
+- Tools: **ZEMAX**, **SolidWorks**, **Proteus**, **Orign**, **LaTeX**, **Markdown**
 
 # Hobby
 Music(Mostly Canton-pop), Movie(Writing some simple reivews), badminton, travelling
