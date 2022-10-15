@@ -10,7 +10,7 @@ Mail: wyattzhuhs@gmail.com, or 1910372@mail.nankai.edu.cn
 ## Nankai University
 B.S., Optoelectronic Information Science, College of Physics,  
 Sep 2019 - Jul 2023, Tianjin, China.  
-Overall GPA: 86.99/100 or 3.60/4.00
+Overall GPA: 86.99/100 or 3.60/4.00 \
 Love Physics and Coding, searching for research opportunity in areas where they can be combined.
 
 # Experience
