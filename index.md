@@ -51,5 +51,5 @@ Jul 2022 - Current \
 
 # Hobby
 Music (Mostly Canton-pop), Movie (Writing some simple reivews), Badminton, Travelling \
-Begin to travel by myself since 15(2016) and have been to Shanghai, Zhejiang(Wuzhen Town, Hangzhou, Zhoushan), Changsha, Qingdao, Chongqing, Chinwangtao. Planning to go Hongkong and Tibet.\
+Begin to travel by myself since 15 (2016) and have been to Shanghai, Zhejiang (Wuzhen Town, Hangzhou, Zhoushan), Changsha, Qingdao, Chongqing, Chinwangtao. Planning to go to Hongkong and Tibet.\
 Personal Blog: [42x24](https://42x24.fun) (the same name as the wechat public account)
