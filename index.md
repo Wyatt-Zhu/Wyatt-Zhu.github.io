@@ -4,7 +4,7 @@ Undergraduate student (graduating 2023),
 
 [Nankai University](https://en.nankai.edu.cn/)  
 
-Mail: wyattzhuhs@gmail.com, or 1910372@mail.nankai.edu.cn
+Mail: wyattzhuhb@outlook.com, or 1910372@mail.nankai.edu.cn
 
 # Education
 ## Nankai University
