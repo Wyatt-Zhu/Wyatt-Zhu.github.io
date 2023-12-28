@@ -2,7 +2,7 @@
 
 PhD student,
 
-Mail: Hongbo.zhu@my.cityu.edu.hk, or wyattzhuhb@outlook.com
+Mail: <Hongbo.zhu@my.cityu.edu.hk>, or <wyattzhuhb@outlook.com>
 
 # Education
 ## Nankai University
@@ -12,8 +12,7 @@ Overall GPA: 86.99/100 or 3.60/4.00.
 
 ## City University of Hong Kong
 
-Ph.D., Electrical Engineering, [Department of Electrical Engineering](https://www.ee.cityu.edu.hk/),
-
+Ph.D., Electrical Engineering, [Department of Electrical Engineering](https://www.ee.cityu.edu.hk/),   
 Sep 2023 - Now, Kowloon Tong, Hong Kong.
 
 # Experience
