@@ -1,23 +1,27 @@
 # Wyatt Hongbo Zhu
 
-Undergraduate student (graduating 2023),
+PhD student,
 
-[Nankai University](https://en.nankai.edu.cn/)  
-
-Mail: wyattzhuhb@outlook.com, or 1910372@mail.nankai.edu.cn
+Mail: Hongbo.zhu@my.cityu.edu.hk, or wyattzhuhb@outlook.com
 
 # Education
 ## Nankai University
-B.S., Optoelectronic Information Science, College of Physics,  
+B.S., Optoelectronic Information Science, [School of Physics](https://physics.nankai.edu.cn/),  
 Sep 2019 - Jul 2023, Tianjin, China.  
-Overall GPA: 86.99/100 or 3.60/4.00 \
-Have a great passion for Physics and Coding, searching for research opportunity in areas where they can be combined (simulation plus experiment).
+Overall GPA: 86.99/100 or 3.60/4.00.
+
+## City University of Hong Kong
+
+Ph.D., Electrical Engineering, [Department of Electrical Engineering](https://www.ee.cityu.edu.hk/),
+
+Sep 2023 - Now, Kowloon Tong, Hong Kong.
 
 # Experience
 ## Study Experience
 ### Nankai University, Tianjin
 Mar 2021 - Mar 2022 \
 **Student Innovation Training Program, Leader**
+
 - Simulated the optical path of the 3D-Bioprinting system and imaging process of DMD chips in ZEMAX (an optical design software), which can guide the improvement in 
 control of precise structure.
 
@@ -50,6 +54,6 @@ Jul 2022 - Current \
 - Tools: **ZEMAX**, **SolidWorks**, **Proteus**, **Origin**, **LaTeX**, **Markdown**
 
 # Hobby
-Music (Mostly Canton-pop), Movie (Writing some simple reivews), Badminton, Travelling \
+Music (Mostly Canton-pop), Movie (Writing some simple reviews), Badminton, Travelling \
 Begin to travel by myself since 15 (2016) and have been to Shanghai, Zhejiang (Wuzhen Town, Hangzhou, Zhoushan), Changsha, Qingdao, Chongqing, Chinwangtao. Planning to go to Hongkong and Tibet.\
 Personal Blog: [42x24](https://42x24.fun) (the same name as the wechat public account)
